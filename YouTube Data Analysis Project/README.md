@@ -74,3 +74,4 @@ Amazon Athena enables interactive SQL querying of the data stored in S3 without 
 ### Visualization:
 Amazon QuickSight provides a dashboard to visualize trends and insights based on video performance metrics.
 
+![ArchitectureDiagram](https://github.com/user-attachments/assets/0751d81d-1be2-4a5d-b0f6-1e2f6b4d5abe)

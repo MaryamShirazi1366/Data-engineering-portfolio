@@ -57,6 +57,7 @@ The solution architecture follows a typical data engineering workflow designed f
 
 ### Data Source:
 YouTube API and Kaggle dataset provide the raw data for ingestion.
+https://www.kaggle.com/datasets/datasnaek/youtube-new
 
 ### Data Ingestion:
 Data is ingested using Lambda functions and AWS Glue jobs, then stored in S3.
